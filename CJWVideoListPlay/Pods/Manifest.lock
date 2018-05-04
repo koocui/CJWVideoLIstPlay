@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - KSYMediaPlayer_iOS (3.0.2):
+    - KSYMediaPlayer_iOS/KSYMediaPlayer_live (= 3.0.2)
+  - KSYMediaPlayer_iOS/KSYMediaPlayer_live (3.0.2)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - KSYMediaPlayer_iOS (from `https://github.com/ksvc/KSYMediaPlayer_iOS.git`)
+  - SDWebImage
+
+EXTERNAL SOURCES:
+  KSYMediaPlayer_iOS:
+    :git: https://github.com/ksvc/KSYMediaPlayer_iOS.git
+
+CHECKOUT OPTIONS:
+  KSYMediaPlayer_iOS:
+    :commit: 1d41780ebea2fe4525b2032110c15f0c394ad232
+    :git: https://github.com/ksvc/KSYMediaPlayer_iOS.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  KSYMediaPlayer_iOS: d6a39e42c1827c8193899721d4d471c9e516e096
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+
+PODFILE CHECKSUM: f226fee248a7d04d754fc16bcdb2e001b1ae0523
+
+COCOAPODS: 1.4.0

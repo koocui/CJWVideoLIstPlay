@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93477D86FBD6A8D28CB8A5E00915BCE436B2216F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05DE5778A18CBC2F2B466A382C6F444721C80738" : 0,
+    "93477D86FBD6A8D28CB8A5E00915BCE436B2216F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0BFD002D-AE09-42A9-A26A-9C8432DF2765",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05DE5778A18CBC2F2B466A382C6F444721C80738" : "",
+    "93477D86FBD6A8D28CB8A5E00915BCE436B2216F" : "%E5%B0%8F%E8%A7%86%E9%A2%91demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CJWVideoListPlay",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CJWVideoListPlay\/CJWVideoListPlay.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koocui\/FMDB_demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05DE5778A18CBC2F2B466A382C6F444721C80738"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koocui\/CJWVideoLIstPlay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93477D86FBD6A8D28CB8A5E00915BCE436B2216F"
+    }
+  ]
+}
